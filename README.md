@@ -1,6 +1,11 @@
 # Notas-TMRN
-Colaboración para Notas: Seminario de Aplicaciones Matemáticas I:
+Antes que nada me gustaría agradecer a los compañeros que han sido parte de este proyecto, pues debido a sus aportaciones el proyecto ha logrado tener más calidad y eficiencia:
 
-Antes que nada me gustaria pedir una disculpa por no abrir esta herramienta antes, creo es normal que cuando uno se siente orgulloso de algo a lo que le ha puesto esfuerzo y dedicación por un largo tiempo se vuelve temeroso de compartir de manera tan abierta su proyecto, sin embargo esto es un lastre para poder desarrollar proyectos mucho mas grandes, complejos y ambiciosos, pues el aprender a trabajar en equipo es una herramienta vital, no solo como estudiantes de ciencia, también en la vida. por ello quiero invitarte a colaborar en este proyecto que dejara de ser MIO, para convertirse en NUESTRO, espero que podamos crear un material para impulsar el estudio riguroso de la inteligencia artificial en nuestra facultad y posiblemente en nuestro país, pues mi proposito es, al no existir ningún texto parecido a este, crear uno, no como academicos (aún), si no como estudiantes apoyados por expertos, para que nuestras dudas como estudiantes primerizos sean anexadas y resueltas, en pro de construir un material mucho mas completo.
+Ariadna Amayrani Ferrari Pardiño - Jorge Iván Reyes Hernández - Mario Raúl Guzmán Gutiérrez - Enrique Jiménez Villarreal
 
-Mi nombre es Daniel Robles, ¡Bienvenido a NUESTRO proyecto!.
+Este proyecto tiene el propósito de recopilar los temas vistos en los Seminarios de Matemáticas aplicadas I y II, de los semestres 2021-1,2021-2 Impartidos por el Dr. Miguel Arturo Ballesteros Montero, Jefe de Departamento del Instituto de Investigaciones de Matemáticas Aplicadas y en sistemas (IIMAS).
+
+IMPORTANCIA DE LAS NOTAS:
+Actualmente no existe un material de consulta para quien quiera adentrarse en la Teoría Matemática de Redes Neuronales, pues es un aréa nueva de investigación que reune a muchas otras, sin embargo su desarrollo es vital para poder entender de manera precisa y potenciar el Machine Learning.
+
+Estas notas tambíen tienen el proposito de introducir dudas por parte de los estudiantes, para ser respondidas por expertos en la matería y enriquecer el material, por lo que las colaboraciones siempre estan abiertas, pues es un proyecto de estudiantes para estudiantes, espero te sean útiles en tu desarrollo en esta nueva y emocionante área de la investigación.
